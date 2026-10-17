@@ -1,4 +1,4 @@
-# 🤖 AI-Based Quiz System
+# AI-Powered Smart Quiz Generation System
 
 An AI-powered web application that automates quiz creation, management, and evaluation using **Google Gemini AI**. The platform enables educators to generate quizzes from PDF documents while providing students with an interactive assessment experience featuring secure authentication, leaderboards, and instant results.
 
